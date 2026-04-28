@@ -5,6 +5,10 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
+# ✅ BUNU EKLEYİN - Yazma izni için
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
