@@ -1,0 +1,38 @@
+name: Dizi Arşivini Güncelle
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # Her gün Türkiye saati 04:00'te
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-series:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+    
+    - run: npm install axios
+    
+    - name: Run series scraper
+      env:
+        TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+      run: node scrape-series.js
+    
+    - name: Commit and push
+      run: |
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
+        git pull --rebase origin main
+        git add diziler/*.m3u
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update series $(date +'%Y-%m-%d')"
+        git push origin main
