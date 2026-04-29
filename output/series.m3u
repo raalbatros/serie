@@ -76,14 +76,17 @@ https://vidlink.pro/tv/79744/1/1
 #EXTINF:-1 tvg-id="2734" tvg-name="Law & Order: Special Victims Unit" tvg-logo="https://image.tmdb.org/t/p/w200/imaKy0BLfX1iPzj9ZvbOD0D09m6.jpg" group-title="Yabancı",Law & Order: Special Victims Unit
 https://vidlink.pro/tv/2734/1/1
 
-#EXTINF:-1 tvg-id="95557" tvg-name="INVINCIBLE" tvg-logo="https://image.tmdb.org/t/p/w200/4tblBrslcKSifMVZ3TmtT2ukMor.jpg" group-title="Yabancı",INVINCIBLE
-https://vidlink.pro/tv/95557/1/1
-
 #EXTINF:-1 tvg-id="549" tvg-name="Law & Order" tvg-logo="https://image.tmdb.org/t/p/w200/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg" group-title="Yabancı",Law & Order
 https://vidlink.pro/tv/549/1/1
 
 #EXTINF:-1 tvg-id="4614" tvg-name="NCIS" tvg-logo="https://image.tmdb.org/t/p/w200/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg" group-title="Yabancı",NCIS
 https://vidlink.pro/tv/4614/1/1
+
+#EXTINF:-1 tvg-id="95557" tvg-name="INVINCIBLE" tvg-logo="https://image.tmdb.org/t/p/w200/4tblBrslcKSifMVZ3TmtT2ukMor.jpg" group-title="Yabancı",INVINCIBLE
+https://vidlink.pro/tv/95557/1/1
+
+#EXTINF:-1 tvg-id="1622" tvg-name="Supernatural" tvg-logo="https://image.tmdb.org/t/p/w200/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg" group-title="Yabancı",Supernatural
+https://vidlink.pro/tv/1622/1/1
 
 #EXTINF:-1 tvg-id="5920" tvg-name="The Mentalist" tvg-logo="https://image.tmdb.org/t/p/w200/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg" group-title="Yabancı",The Mentalist
 https://vidlink.pro/tv/5920/1/1
@@ -91,8 +94,8 @@ https://vidlink.pro/tv/5920/1/1
 #EXTINF:-1 tvg-id="1416" tvg-name="Grey's Anatomy" tvg-logo="https://image.tmdb.org/t/p/w200/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg" group-title="Yabancı",Grey's Anatomy
 https://vidlink.pro/tv/1416/1/1
 
-#EXTINF:-1 tvg-id="1622" tvg-name="Supernatural" tvg-logo="https://image.tmdb.org/t/p/w200/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg" group-title="Yabancı",Supernatural
-https://vidlink.pro/tv/1622/1/1
+#EXTINF:-1 tvg-id="1399" tvg-name="Game of Thrones" tvg-logo="https://image.tmdb.org/t/p/w200/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="Yabancı",Game of Thrones
+https://vidlink.pro/tv/1399/1/1
 
 #EXTINF:-1 tvg-id="456" tvg-name="The Simpsons" tvg-logo="https://image.tmdb.org/t/p/w200/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg" group-title="Yabancı",The Simpsons
 https://vidlink.pro/tv/456/1/1
@@ -100,26 +103,23 @@ https://vidlink.pro/tv/456/1/1
 #EXTINF:-1 tvg-id="4057" tvg-name="Criminal Minds" tvg-logo="https://image.tmdb.org/t/p/w200/gigxjNnACiXAfrwoMox5WJFgc0I.jpg" group-title="Yabancı",Criminal Minds
 https://vidlink.pro/tv/4057/1/1
 
-#EXTINF:-1 tvg-id="1399" tvg-name="Game of Thrones" tvg-logo="https://image.tmdb.org/t/p/w200/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" group-title="Yabancı",Game of Thrones
-https://vidlink.pro/tv/1399/1/1
-
-#EXTINF:-1 tvg-id="764" tvg-name="Midsomer Murders" tvg-logo="https://image.tmdb.org/t/p/w200/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg" group-title="Yabancı",Midsomer Murders
-https://vidlink.pro/tv/764/1/1
-
 #EXTINF:-1 tvg-id="1434" tvg-name="Family Guy" tvg-logo="https://image.tmdb.org/t/p/w200/ad75MS8xP2EmkYXy4101ljmpIfn.jpg" group-title="Yabancı",Family Guy
 https://vidlink.pro/tv/1434/1/1
+
+#EXTINF:-1 tvg-id="1431" tvg-name="CSI: Crime Scene Investigation" tvg-logo="https://image.tmdb.org/t/p/w200/i5hmoRjHNWady4AtAGICTUXknKH.jpg" group-title="Yabancı",CSI: Crime Scene Investigation
+https://vidlink.pro/tv/1431/1/1
 
 #EXTINF:-1 tvg-id="1911" tvg-name="Bones" tvg-logo="https://image.tmdb.org/t/p/w200/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg" group-title="Yabancı",Bones
 https://vidlink.pro/tv/1911/1/1
 
-#EXTINF:-1 tvg-id="34307" tvg-name="Shameless" tvg-logo="https://image.tmdb.org/t/p/w200/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg" group-title="Yabancı",Shameless
-https://vidlink.pro/tv/34307/1/1
-
-#EXTINF:-1 tvg-id="60574" tvg-name="Peaky Blinders" tvg-logo="https://image.tmdb.org/t/p/w200/5aHpODCpUa0kGTPXtiYC0moIPhT.jpg" group-title="Yabancı",Peaky Blinders
-https://vidlink.pro/tv/60574/1/1
+#EXTINF:-1 tvg-id="764" tvg-name="Midsomer Murders" tvg-logo="https://image.tmdb.org/t/p/w200/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg" group-title="Yabancı",Midsomer Murders
+https://vidlink.pro/tv/764/1/1
 
 #EXTINF:-1 tvg-id="1408" tvg-name="House, M.D." tvg-logo="https://image.tmdb.org/t/p/w200/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="Yabancı",House, M.D.
 https://vidlink.pro/tv/1408/1/1
+
+#EXTINF:-1 tvg-id="34307" tvg-name="Shameless" tvg-logo="https://image.tmdb.org/t/p/w200/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg" group-title="Yabancı",Shameless
+https://vidlink.pro/tv/34307/1/1
 
 #EXTINF:-1 tvg-id="33238" tvg-name="런닝맨" tvg-logo="https://image.tmdb.org/t/p/w200/15SMnscZqd7HZ0bzruatOcKUlOV.jpg" group-title="Kore",런닝맨
 https://vidlink.pro/tv/33238/1/1
@@ -181,14 +181,14 @@ https://vidlink.pro/tv/99966/1/1
 #EXTINF:-1 tvg-id="241454" tvg-name="Love Next Door" tvg-logo="https://image.tmdb.org/t/p/w200/39JcptCyPz5AEFRtWruQzHDvKE.jpg" group-title="Kore",Love Next Door
 https://vidlink.pro/tv/241454/1/1
 
+#EXTINF:-1 tvg-id="65733" tvg-name="Doraemon" tvg-logo="https://image.tmdb.org/t/p/w200/9YqdMXlPTQGLIG67vqZdsPdPC4T.jpg" group-title="Japon",Doraemon
+https://vidlink.pro/tv/65733/1/1
+
 #EXTINF:-1 tvg-id="95479" tvg-name="Jujutsu Kaisen" tvg-logo="https://image.tmdb.org/t/p/w200/zKFkzRn1UyE11Jv9CJjVmvmQFvR.jpg" group-title="Japon",Jujutsu Kaisen
 https://vidlink.pro/tv/95479/1/1
 
 #EXTINF:-1 tvg-id="95897" tvg-name="おーばーふろぉ" tvg-logo="https://image.tmdb.org/t/p/w200/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg" group-title="Japon",おーばーふろぉ
 https://vidlink.pro/tv/95897/1/1
-
-#EXTINF:-1 tvg-id="65733" tvg-name="Doraemon" tvg-logo="https://image.tmdb.org/t/p/w200/9YqdMXlPTQGLIG67vqZdsPdPC4T.jpg" group-title="Japon",Doraemon
-https://vidlink.pro/tv/65733/1/1
 
 #EXTINF:-1 tvg-id="2661" tvg-name="仮面ライダー" tvg-logo="https://image.tmdb.org/t/p/w200/fIJNVBa6MJStPiOvhLV69nAdu0e.jpg" group-title="Japon",仮面ライダー
 https://vidlink.pro/tv/2661/1/1
@@ -196,47 +196,47 @@ https://vidlink.pro/tv/2661/1/1
 #EXTINF:-1 tvg-id="30984" tvg-name="Bleach" tvg-logo="https://image.tmdb.org/t/p/w200/e0kKmeM8R7Kersh5N2PPzIRNRhr.jpg" group-title="Japon",Bleach
 https://vidlink.pro/tv/30984/1/1
 
+#EXTINF:-1 tvg-id="60572" tvg-name="Pokemon" tvg-logo="https://image.tmdb.org/t/p/w200/uoBwsiZNyOFDBh9WdDhpxc2JERM.jpg" group-title="Japon",Pokemon
+https://vidlink.pro/tv/60572/1/1
+
 #EXTINF:-1 tvg-id="209867" tvg-name="葬送のフリーレン" tvg-logo="https://image.tmdb.org/t/p/w200/dhzbCznEzU67RXWYb53fyPe9Keb.jpg" group-title="Japon",葬送のフリーレン
 https://vidlink.pro/tv/209867/1/1
 
 #EXTINF:-1 tvg-id="113137" tvg-name="カノジョも彼女" tvg-logo="https://image.tmdb.org/t/p/w200/iaQQ7ClWmqOB6oF4dVYTTQR9T09.jpg" group-title="Japon",カノジョも彼女
 https://vidlink.pro/tv/113137/1/1
 
-#EXTINF:-1 tvg-id="60572" tvg-name="Pokemon" tvg-logo="https://image.tmdb.org/t/p/w200/uoBwsiZNyOFDBh9WdDhpxc2JERM.jpg" group-title="Japon",Pokemon
-https://vidlink.pro/tv/60572/1/1
-
-#EXTINF:-1 tvg-id="45952" tvg-name="Avcı × Avcı" tvg-logo="https://image.tmdb.org/t/p/w200/eobAuhCJA8oRp814V67WhezVXtQ.jpg" group-title="Japon",Avcı × Avcı
-https://vidlink.pro/tv/45952/1/1
-
-#EXTINF:-1 tvg-id="46260" tvg-name="Naruto" tvg-logo="https://image.tmdb.org/t/p/w200/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="Japon",Naruto
-https://vidlink.pro/tv/46260/1/1
-
 #EXTINF:-1 tvg-id="12971" tvg-name="Dragon Ball Z" tvg-logo="https://image.tmdb.org/t/p/w200/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg" group-title="Japon",Dragon Ball Z
 https://vidlink.pro/tv/12971/1/1
-
-#EXTINF:-1 tvg-id="65942" tvg-name="re zero kara hajimeru isekai seikatsu" tvg-logo="https://image.tmdb.org/t/p/w200/ccG0ZfXOQ0834bIus4SwZrXtkyM.jpg" group-title="Japon",re zero kara hajimeru isekai seikatsu
-https://vidlink.pro/tv/65942/1/1
 
 #EXTINF:-1 tvg-id="37854" tvg-name="One Piece" tvg-logo="https://image.tmdb.org/t/p/w200/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg" group-title="Japon",One Piece
 https://vidlink.pro/tv/37854/1/1
 
+#EXTINF:-1 tvg-id="46260" tvg-name="Naruto" tvg-logo="https://image.tmdb.org/t/p/w200/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="Japon",Naruto
+https://vidlink.pro/tv/46260/1/1
+
 #EXTINF:-1 tvg-id="31910" tvg-name="Naruto: Shippuuden" tvg-logo="https://image.tmdb.org/t/p/w200/qOxedwaJzdms2alAmIEHEnDeDzg.jpg" group-title="Japon",Naruto: Shippuuden
 https://vidlink.pro/tv/31910/1/1
+
+#EXTINF:-1 tvg-id="65942" tvg-name="re zero kara hajimeru isekai seikatsu" tvg-logo="https://image.tmdb.org/t/p/w200/ccG0ZfXOQ0834bIus4SwZrXtkyM.jpg" group-title="Japon",re zero kara hajimeru isekai seikatsu
+https://vidlink.pro/tv/65942/1/1
+
+#EXTINF:-1 tvg-id="45952" tvg-name="Avcı × Avcı" tvg-logo="https://image.tmdb.org/t/p/w200/eobAuhCJA8oRp814V67WhezVXtQ.jpg" group-title="Japon",Avcı × Avcı
+https://vidlink.pro/tv/45952/1/1
 
 #EXTINF:-1 tvg-id="220542" tvg-name="The Apothecary Diaries" tvg-logo="https://image.tmdb.org/t/p/w200/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg" group-title="Japon",The Apothecary Diaries
 https://vidlink.pro/tv/220542/1/1
 
-#EXTINF:-1 tvg-id="127532" tvg-name="Solo Leveling" tvg-logo="https://image.tmdb.org/t/p/w200/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg" group-title="Japon",Solo Leveling
-https://vidlink.pro/tv/127532/1/1
-
 #EXTINF:-1 tvg-id="46195" tvg-name="化物語" tvg-logo="https://image.tmdb.org/t/p/w200/f7rhm0NuroxwC8OTVgmNJlsoc4W.jpg" group-title="Japon",化物語
 https://vidlink.pro/tv/46195/1/1
 
-#EXTINF:-1 tvg-id="220150" tvg-name="Pokémon Yeni Ufuklar: Dizi" tvg-logo="https://image.tmdb.org/t/p/w200/4Jmdw8Hg6988ogDE9X2b93loPLY.jpg" group-title="Japon",Pokémon Yeni Ufuklar: Dizi
-https://vidlink.pro/tv/220150/1/1
+#EXTINF:-1 tvg-id="127532" tvg-name="Solo Leveling" tvg-logo="https://image.tmdb.org/t/p/w200/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg" group-title="Japon",Solo Leveling
+https://vidlink.pro/tv/127532/1/1
 
 #EXTINF:-1 tvg-id="46298" tvg-name="Hunter x Hunter" tvg-logo="https://image.tmdb.org/t/p/w200/9WxfAQquTun9ATkV6iAeFHMkqxv.jpg" group-title="Japon",Hunter x Hunter
 https://vidlink.pro/tv/46298/1/1
 
-#EXTINF:-1 tvg-id="30983" tvg-name="Dedektif Konan" tvg-logo="https://image.tmdb.org/t/p/w200/gW14n6xxONXrya8CIDhRe5Ada7U.jpg" group-title="Japon",Dedektif Konan
-https://vidlink.pro/tv/30983/1/1
+#EXTINF:-1 tvg-id="220150" tvg-name="Pokémon Yeni Ufuklar: Dizi" tvg-logo="https://image.tmdb.org/t/p/w200/4Jmdw8Hg6988ogDE9X2b93loPLY.jpg" group-title="Japon",Pokémon Yeni Ufuklar: Dizi
+https://vidlink.pro/tv/220150/1/1
+
+#EXTINF:-1 tvg-id="31572" tvg-name="ルパン三世" tvg-logo="https://image.tmdb.org/t/p/w200/8jLjAXdwn3BsMB4VpOa8PSplgfw.jpg" group-title="Japon",ルパン三世
+https://vidlink.pro/tv/31572/1/1
