@@ -1,5 +1,5 @@
 #EXTM3U
-# Dizi Arşivi - 29.05.2026
+# Dizi Arşivi - 30.05.2026
 
 #EXTINF:-1 tvg-name="Gassal S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S01E01
 https://imagestoo.com/cdn/hls/bdd4e7b6a7448b14fcb350a612be7a0d/master.txt
@@ -24,7 +24,23 @@ https://imagestoo.com/cdn/hls/6f8af087474a135f0b942c2dcd9f95c7/master.txt
 #EXTINF:-1 tvg-name="Gassal S02E01" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S02E01
 https://imagestoo.com/cdn/hls/8349b465697db9c37a93e2c093f80290/master.txt
 #EXTINF:-1 tvg-name="Gassal S02E02" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S02E02
-https://fastplay.mom/manifests/ja61yXLRDMaN/master.txt
+https://hlszone.com/cdn/hls/f16b4720ef54069607b34038048b6593/master.txt
+#EXTINF:-1 tvg-name="Gassal S02E03" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S02E03
+https://hlszone.com/cdn/hls/edf0c403544001960e036d014323fef3/master.txt
+#EXTINF:-1 tvg-name="Gassal S02E04" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S02E04
+https://hlszone.com/cdn/hls/e149779fd2f74b51082c9a95069544f6/master.txt
+#EXTINF:-1 tvg-name="Gassal S02E05" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S02E05
+https://hlszone.com/cdn/hls/57e53a9db8fb335316bd381b7a7d5a9b/master.txt
+#EXTINF:-1 tvg-name="Gassal S02E06" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S02E06
+https://hlszone.com/cdn/hls/a2fe2acde76795ff074967e00cd21a68/master.txt
+#EXTINF:-1 tvg-name="Gassal S02E07" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S02E07
+https://hlszone.com/cdn/hls/3ffe8639fba21a1f6e9e1bf5c0b5b052/master.txt
+#EXTINF:-1 tvg-name="Gassal S02E08" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S02E08
+https://hlszone.com/cdn/hls/5343967db6276925ce7a0d7fea67552e/master.txt
+#EXTINF:-1 tvg-name="Gassal S02E09" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S02E09
+https://hlszone.com/cdn/hls/844395b7bb7a8c0cc623ae7123c0448f/master.txt
+#EXTINF:-1 tvg-name="Gassal S02E10" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S02E10
+https://hlszone.com/cdn/hls/1cd129a55719e5db347da86595253ca4/master.txt
 #EXTINF:-1 tvg-name="High Potential S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/xTCFYqx11WHUZRUDKpNLdkXRYJ6.jpg" group-title="High Potential",High Potential S01E01
 https://hlszone.com/cdn/hls/414d7b69c5327c6f84f5957a9bf499a8/master.txt
 #EXTINF:-1 tvg-name="High Potential S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/xTCFYqx11WHUZRUDKpNLdkXRYJ6.jpg" group-title="High Potential",High Potential S01E02
