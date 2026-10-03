@@ -1,0 +1,49 @@
+name: HDFilmizle M3U Güncelle
+
+on:
+  schedule:
+    - cron: "0 3 */2 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Repoyu indir
+        uses: actions/checkout@v5
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Bağımlılıkları kur
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Film ve dizi listelerini tara
+        env:
+          FILM_BASLANGIC: "1"
+          FILM_BITIS: "3"
+          DIZI_BASLANGIC: "1"
+          DIZI_BITIS: "2"
+          WORKER_COUNT: "3"
+        run: python scraper.py
+
+      - name: Film listesini kaydet
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "Film M3U güncellendi"
+          file_pattern: hdfilmizle-film.m3u
+
+      - name: Dizi listesini kaydet
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "Dizi M3U güncellendi"
+          file_pattern: hdfilmizle-dizi.m3u
