@@ -1,16 +1,15 @@
-name: HDFilmizle Dizi M3U Güncelle
+name: HDFilmizle M3U Güncelle
 
 on:
   schedule:
-    # Her 2 günde bir UTC 04:00
-    - cron: "0 4 */2 * *"
+    - cron: "0 3 */2 * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-dizi-m3u:
+  update-m3u:
     runs-on: ubuntu-latest
     timeout-minutes: 120
 
@@ -28,15 +27,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Dizi M3U listesini tara
+      - name: M3U listesini tara
         env:
           DIZI_BASLANGIC: "1"
-          DIZI_BITIS: "50"
-          WORKER_COUNT: "8"
-        run: python scraper_dizi.py
+          DIZI_BITIS: "2"
+          FILM_BASLANGIC: "1"
+          FILM_BITIS: "3"
+          WORKER_COUNT: "3"
+        run: python scraper.py
 
       - name: Değişiklik varsa commit ve push et
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "Dizi M3U listesi otomatik güncellendi"
-          file_pattern: hdfilmizle-dizi.m3u
+          commit_message: "M3U listesi otomatik güncellendi"
+          file_pattern: hdfilmizle.m3u
