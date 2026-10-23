@@ -1,5 +1,5 @@
 #EXTM3U
-# Dizi Arşivi - 30.05.2026
+# Dizi Arşivi - 23.10.2026
 
 #EXTINF:-1 tvg-name="Gassal S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S01E01
 https://imagestoo.com/cdn/hls/bdd4e7b6a7448b14fcb350a612be7a0d/master.txt
@@ -42,26 +42,7 @@ https://hlszone.com/cdn/hls/844395b7bb7a8c0cc623ae7123c0448f/master.txt
 #EXTINF:-1 tvg-name="Gassal S02E10" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S02E10
 https://hlszone.com/cdn/hls/1cd129a55719e5db347da86595253ca4/master.txt
 #EXTINF:-1 tvg-name="Gassal S03E01" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S03E01
-https://hlszone.com/cdn/hls/521d81ddf0f191dd2454cb7c8cfac13d/master.txt
-#EXTINF:-1 tvg-name="Gassal S03E02" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S03E02
-https://pilavyerplay.top/api/stream.php?v=c01ddbdc2f296a70503ae5d1079c9dce&token=eyJ2IjoiYzAxZGRiZGMyZjI5NmE3MDUwM2FlNWQxMDc5YzlkY2UiLCJvIjoiZGl6aWl6bGUud2lraSIsImV4cCI6MTc5MzEzMjk3OSwibiI6ImJlNjUxMjRiYzkzOSJ9.8f60da74addb2b9076f2b934b1ff5fd5f5cc900124066aee9ee77478e8c2c781
-#EXTINF:-1 tvg-name="Gassal S03E03" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S03E03
-https://pilavyerplay.top/api/stream.php?v=7643be846222b4aa0b1ef96f5eb9b6cc&token=eyJ2IjoiNzY0M2JlODQ2MjIyYjRhYTBiMWVmOTZmNWViOWI2Y2MiLCJvIjoiZGl6aWl6bGUud2lraSIsImV4cCI6MTc5MzEzMzExNywibiI6IjQxYmY2ZGM0NDEwNCJ9.8d5a89dffb15988b6a33059b9fb88c85a0dd62bf8a4642af35ecf674810737f8
-#EXTINF:-1 tvg-name="Gassal S03E04" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S03E04
-https://pilavyerplay.top/api/stream.php?v=6027828a129c55ec577a1988ad7bfa86&token=eyJ2IjoiNjAyNzgyOGExMjljNTVlYzU3N2ExOTg4YWQ3YmZhODYiLCJvIjoiZGl6aWl6bGUud2lraSIsImV4cCI6MTc5MzEzMzMyNiwibiI6ImFmYWFmYjhiODdlZSJ9.b6fed5f20896fb263947dcf0c46fdaec2a31fc21c9f0ecdfc10d0b1548c26817
-#EXTINF:-1 tvg-name="Gassal S03E05" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S03E05
-https://pilavyerplay.top/api/stream.php?v=0c3b9e127f672c5c860184575b60f90a&token=eyJ2IjoiMGMzYjllMTI3ZjY3MmM1Yzg2MDE4NDU3NWI2MGY5MGEiLCJvIjoiZGl6aWl6bGUud2lraSIsImV4cCI6MTc5MzEzMzQxNiwibiI6ImVhNmI2Yjc2ZmI5NyJ9.e6c767f5bf330b83fa74de7285ae950a09775766cb95ae278bc13669695fe5f7
-#EXTINF:-1 tvg-name="Gassal S03E06" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S03E06
-https://pilavyerplay.top/api/stream.php?v=fefe560f68ce157d3363e95ef03e2b75&token=eyJ2IjoiZmVmZTU2MGY2OGNlMTU3ZDMzNjNlOTVlZjAzZTJiNzUiLCJvIjoiZGl6aWl6bGUud2lraSIsImV4cCI6MTc5MzEzMzQ4NywibiI6IjUzZDMxYWQyOTVlMCJ9.7b6babd9ec74e063c5d1e7cf528ef312da99a467bf41b410ba2e40ff31c3a7f3
-#EXTINF:-1 tvg-name="Gassal S03E07" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S03E07
-https://pilavyerplay.top/api/stream.php?v=1596e14eabb2648de81ffa35efc1314d&token=eyJ2IjoiMTU5NmUxNGVhYmIyNjQ4ZGU4MWZmYTM1ZWZjMTMxNGQiLCJvIjoiZGl6aWl6bGUud2lraSIsImV4cCI6MTc5MzEzMzUwMywibiI6IjUxNDZhZjkyMDZlYiJ9.511bad1caf78193e7bc1bfc88e1a7408646bf1a92534f623b89502a03b8851b8
-#EXTINF:-1 tvg-name="Gassal S03E08" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S03E08
-https://pilavyerplay.top/api/stream.php?v=057ea79f7bc73368ba7522142520d256&token=eyJ2IjoiMDU3ZWE3OWY3YmM3MzM2OGJhNzUyMjE0MjUyMGQyNTYiLCJvIjoiZGl6aWl6bGUud2lraSIsImV4cCI6MTc5MzEzMzUwMywibiI6Ijk2Mjc0ZTMyNWVmOCJ9.41e0f60035ea3032369e2109bc1b25591840182102b0a26a3ea38c3bc341f028
-#EXTINF:-1 tvg-name="Gassal S03E09" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S03E09
-https://pilavyerplay.top/api/stream.php?v=cd4557ad53057e741b0245e70639eb23&token=eyJ2IjoiY2Q0NTU3YWQ1MzA1N2U3NDFiMDI0NWU3MDYzOWViMjMiLCJvIjoiZGl6aWl6bGUud2lraSIsImV4cCI6MTc5MzEzMzUwMywibiI6IjJhYmExOGFiZDQ0NyJ9.c0f8de309d3e7193e7198da536ba89a8b7f13110c163c24041959affe26afddc
-#EXTINF:-1 tvg-name="Gassal S03E10" tvg-logo="https://image.tmdb.org/t/p/w500/dvTFLhkIlCJaaDi32MxG7ke4vv1.jpg" group-title="Gassal",Gassal S03E10
-https://pilavyerplay.top/api/stream.php?v=3ef1e3e5f7f400b6c403d5fc800db5d7&token=eyJ2IjoiM2VmMWUzZTVmN2Y0MDBiNmM0MDNkNWZjODAwZGI1ZDciLCJvIjoiZGl6aWl6bGUud2lraSIsImV4cCI6MTc5MzEzMzUwNCwibiI6IjBkNTdiZmMwZmRhOSJ9.25281a31eef771b9cadd03f598aaf0835f5d772993ea7aaf6d75e5781395f9e2
-
+https://pilavyerplay.top/api/stream.php?v=edbbf8f827625d3bcac57c1dd41651c5&token=eyJ2IjoiZWRiYmY4ZjgyNzYyNWQzYmNhYzU3YzFkZDQxNjUxYzUiLCJvIjoiZGRpemlib3guY29tIiwiZXhwIjoxNzkzMzk3MzQ5LCJuIjoiMzI1NDE5MDY3ZjkyIn0.37d66944ff5bb5610f1da58078b170ab0c60b23be85a1dc5eb0adaeafd7628d4
 #EXTINF:-1 tvg-name="High Potential S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/xTCFYqx11WHUZRUDKpNLdkXRYJ6.jpg" group-title="High Potential",High Potential S01E01
 https://hlszone.com/cdn/hls/414d7b69c5327c6f84f5957a9bf499a8/master.txt
 #EXTINF:-1 tvg-name="High Potential S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/xTCFYqx11WHUZRUDKpNLdkXRYJ6.jpg" group-title="High Potential",High Potential S01E02
@@ -121,6 +102,6 @@ https://hlszone.com/cdn/hls/371acf120601ebd79b4ba9949a1d4352/master.txt
 #EXTINF:-1 tvg-name="High Potential S02E16" tvg-logo="https://image.tmdb.org/t/p/w500/xTCFYqx11WHUZRUDKpNLdkXRYJ6.jpg" group-title="High Potential",High Potential S02E16
 https://hlszone.com/cdn/hls/e2902ac6a2429910a03d69c669ccefed/master.txt
 #EXTINF:-1 tvg-name="High Potential S02E17" tvg-logo="https://image.tmdb.org/t/p/w500/xTCFYqx11WHUZRUDKpNLdkXRYJ6.jpg" group-title="High Potential",High Potential S02E17
-https://hlszone.com/cdn/hls/2952c314ea960ac5f5f756a7ae68a1f7/master.txt
+https://hlszone.com/m3/NkJIVVBKdXF4NytiQVpxVGNpYlppL2RhZmRqQXJsdS9xUTQxMXFkR3hxaFRxVjlrY05VUVkydmY4RGl4aFl0VEJUQm5zaXp3dnJOVGRyLy80OEVCemZEVHFUZ1Uyc20rcXVsbHQzak1sN3k4OWh6R296bnNoSTZqTWtZcmtzME9INWZDRWlnNzErZTRPN0VXOUlHeU0wN1A5dnNhR3dqWk9IQlZuWWViNDNtbXJWdGdtR2svWCtxVzRJMzhQckdYVEV0am9GOVFTbFFFdjhiT21sc3dQeUt3TXpKRzR6MllVdXB2dEIrRXE2K0VUMXJ4cjNMVTRyMXA2WUJBcytWSEJ2enRLMzRBZjh5TWh0RFA5aldxNUFDVFU5dnZFNk11dVI5TkVHZTQ1OGc9
 #EXTINF:-1 tvg-name="High Potential S02E18" tvg-logo="https://image.tmdb.org/t/p/w500/xTCFYqx11WHUZRUDKpNLdkXRYJ6.jpg" group-title="High Potential",High Potential S02E18
-https://hlszone.com/cdn/hls/4f40e5568a6c745755c00caa1ede3c1c/master.txt
+https://hlszone.com/m3/SkMycUJjQ1B3ZnRBZHNYTzhZZ1crS2hzSEp6RFR6S0Z5a0FvL0ZEWVhPLzVTcGlIMHZmOXlieWNYbTF1aGJEZ1NneCtpV0FXUFRoc2loMEF6S2o0VTBsaFcyVzVVOHh0N200SXpFdWpXaHR1MzdmUHlFWURSTEdmYmNzcmx3K3ExY01iUGFZRTNqdVVudGJHaUdkbmQ2azlZWVRnNEkvV0UyWGVlVm9MSFdFUnU3Wm5jQUp3cTIwVUN6eWl4VlNpMk56QzVYeDlqbVo2TlBuVm1XNlBpZUpkQlcxWXlEWk03RXNJVFAxZlJ1NWpaSmJyVzFnTXk2RUl6a3NydzViK3MxSjA3anpiUUNWUnJ5cDExUmFpV3BQbTFEczFzZTBqOUFLTkFrdVlWUU09
