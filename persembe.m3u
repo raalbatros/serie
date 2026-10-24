@@ -1,1 +1,13 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm2OXGvRa2krargAKDfYj68P6lCEAAxUc-GSQM8oFfn2UZJ_FlKkfios0&s=10" group-title="Dizi Son Bölüm",Sevdiğim Sensin
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sevdigim.Sensin.SON.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIwNTIwYTAtOGEzMS00MGE4LTg5NDUtZDVlMDQ0OTg2MDM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Dizi Son Bölüm",Muhtemel Aşk
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Muhtemel.Ask.SON.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODU0ODE4MTAtYTFlYS00MzNmLWFmZmMtZDAyM2Q1YWI3MDBkXkEyXkFqcGc@._V1_.jpg" group-title="Dizi Son Bölüm",Halef
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Halef.SON.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd06aFnOLQNVLgcaEPXgdMGhej0YCrThwP9r2mynA8BCmC3yCEpyw_sPfN&s=10" group-title="Dizi Son Bölüm",Güneşin Doğduğu Yer
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gunesin.Dogdugu.Yer.SON.mkv
