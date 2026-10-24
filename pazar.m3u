@@ -1,1 +1,10 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZkYzRjYmEtMDhlNC00ODU5LWFiOWUtYTBkNWNkMzIzNWY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Dizi Son Bölüm",Teşkilat
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Teskilat.SON.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ1N2FlZGUtYmZiMC00NTdjLTk2ZjAtMmZlZjllMzM1NDg0XkEyXkFqcGc@._V1_.jpg" group-title="Dizi Son Bölüm",Daha 17
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Daha.17.SON.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDljMzQ3MzUtMzU1Ni00ZWRhLWE2YzEtMmI2ZDRhYTc3MjI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Dizi Son Bölüm",Ömür Usta
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Omur.Usta.SON.mkv
