@@ -1,1 +1,10 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRkMjI2ZmMtZDRmOS00MmIyLTk4NzAtYzJjNTZkYzUyZThkXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg" group-title="Dizi Son Bölüm",Sevdam Karadeniz
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sevdam.Karadeniz.SON.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWYxYWM1ZDEtNzU4MS00Mzk3LTkzN2UtYTE4NWMwZjk4MDA3XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="Dizi Son Bölüm",Evlilik Güzeldir
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Evlilik.Guzeldir.SON.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjEwMzZhZjMtZDZmMC00ZTViLWI3MDktNWJmZWVkM2YwYTNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Dizi Son Bölüm",Altı Üstü İstanbul
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Alti.Ustu.Istanbul.SON.mkv
