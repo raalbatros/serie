@@ -1,4 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBnkYsQHA8YUGs2qjcpcKWVtHyy3kLrH8Sv9jMX66RP3z8bfh8fn-gidN&s=10" group-title="Dizi Son Bölüm",Mehmed Fetihler Sultanı
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBnkYsQHA8YUGs2qjcpcKWVtHyy3kLrH8Sv9jMX66RP3z8bfh8fn-gidN&s=10" group-title="Dizi Son Bölüm",Mehmed: Fetihler Sultanı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mehmed.Fetihler.Sultani.SON.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6BT19yu6U_OOfoXkhRytL5Tz6UbchC5X2pLRtdVT3Q&s=10" group-title="Dizi Son Bölüm",Anne Yarısı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Anne.Yarisi.SON.mkv
+
+#EXTINF:-1 tvg-logo="https://img.dizi.la/uploads/328474/responsive-images/6a918788d73360a42855218c___medium_341_512.jpg" group-title="Dizi Son Bölüm",Haysiyet
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Haysiyet.SON.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9e/Tuzlu_Kahve.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Dizi Son Bölüm",Tuzlu Kahve
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tuzlu.Kahve.SON.mkv
