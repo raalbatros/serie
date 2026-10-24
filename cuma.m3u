@@ -1,1 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.sinemalar.com/images/movie/290167/poster/tasacak-ha-bu-deniz-1760514785_225x336.jpg" group-title="Dizi Son Bölüm",Taşacak Bu Deniz
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tasacak.Bu.Deniz.SON.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ee/K%C4%B1z%C4%B1lc%C4%B1k%C5%9Eerbeti5.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Dizi Son Bölüm",Kızılcık Şerbeti
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kizilcik.Serbeti.SON.mkv
+
+
 
