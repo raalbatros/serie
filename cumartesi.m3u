@@ -1,1 +1,13 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdA8BFWQM0Kk5jebDtyCCJAy0XPNHaBfPqTdOu53CUmjtl-wN4XPZze89&s=10" group-title="Dizi Son Bölüm",Gönül Dağı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gonul.Dagi.SON.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY1MTFhYjQtMGY5MC00MjkyLWJhNzAtMjU4NTA2YmQyNTY1XkEyXkFqcGc@._V1_.jpg" group-title="Dizi Son Bölüm",Güller ve Günahlar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guller.ve.Gunahlar.SON.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsoB7JCBlMMzR5CC9cL4OOHEomdjlQ9AUZtymGf0NdA1axfxgGz_PYWIMF&s=10" group-title="Dizi Son Bölüm",Mercan Köşk
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mercan.Kosk.SON.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTlhZDRiNzMtODZmNC00Njk1LWJmOTItMWExMjc3NDdlNzEyXkEyXkFqcGc@._V1_.jpg" group-title="Dizi Son Bölüm",Başkalarının Hayatı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Baskalarinin.Hayati.SON.mkv
