@@ -1,1 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjMwNTItNDZjOS00YTIwLTg5ZGQtNmIzYjhkZTEzNjNmXkEyXkFqcGc@._V1_.jpg" group-title="Dizi Son Bölüm",Sevdan Bir Ateş
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sevdan.Bir.Ates.SON.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWZkN2M5NzUtODY0Zi00YzY4LTg4MDAtOWU2MDFjODQ2NGJmXkEyXkFqcGc@._V1_.jpg" group-title="Dizi Son Bölüm",Yeralti
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yeralti.SON.mkv
+
 
