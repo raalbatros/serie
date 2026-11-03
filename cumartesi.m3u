@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdA8BFWQM0Kk5jebDtyCCJAy0XPNHaBfPqTdOu53CUmjtl-wN4XPZze89&s=10" group-title="Dizi Son Bölüm",Gönül Dağı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gonul.Dagi.SON.mkv
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/51/G%C3%BCld%C3%BCrG%C3%BCld%C3%BCrShow.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Dizi Son Bölüm",Güldür Güldür Show
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guldur.Guldur.Show.SON.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY1MTFhYjQtMGY5MC00MjkyLWJhNzAtMjU4NTA2YmQyNTY1XkEyXkFqcGc@._V1_.jpg" group-title="Dizi Son Bölüm",Güller ve Günahlar
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guller.ve.Gunahlar.SON.mkv
 
